@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e8c2e2c-7f98-44b9-a2c7-e26635f74570" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoTutorial2020/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoTutorial2020/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoTutorial2020/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoTutorial2020/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoTutorial2020/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoTutorial2020/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569230282836</updated>
-      <workItem from="1569230294337" duration="3367000" />
+      <workItem from="1569230294337" duration="4043000" />
     </task>
     <servers />
   </component>
